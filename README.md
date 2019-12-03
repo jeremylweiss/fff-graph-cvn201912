@@ -5,3 +5,5 @@ https://cals.arizona.edu/research/climategem/content/climate-viticulture-newslet
 First fall freeze is defined as the first day between August 1 and December 31 of the same calendar year when the daily minimum temperature is less than 0 degrees Celsius.
 
 To recreate the graph, run the 'az_ava_fff_time_series.R' script.
+
+<br /><br />![Alt text](fff-time-series-stack-logo.png?raw=true "first fall freeze for Arizona AVAs")
